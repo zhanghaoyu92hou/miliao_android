@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\drawable-xhdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\drawable-xhdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\drawable-xhdpi\\default_ptr_rotate.png"
+    }
+]

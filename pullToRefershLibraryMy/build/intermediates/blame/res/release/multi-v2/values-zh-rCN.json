@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\build\\intermediates\\res\\merged\\release\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\values-zh-rCN\\pull_refresh_strings.xml",
+                    "from": {
+                        "startLines": "8,10,9,3,5,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "360,507,432,56,180,116",
+                        "endColumns": "71,77,74,59,65,63",
+                        "endOffsets": "427,580,502,111,241,175"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,127,205,280,340,406",
+                        "endColumns": "71,77,74,59,65,63",
+                        "endOffsets": "122,200,275,335,401,465"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\values-zh-rCN\\pull_refresh_strings.xml",
+                    "from": {
+                        "startLines": "8,10,9,3,5,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "360,507,432,56,180,116",
+                        "endColumns": "71,77,74,59,65,63",
+                        "endOffsets": "427,580,502,111,241,175"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,127,205,280,340,406",
+                        "endColumns": "71,77,74,59,65,63",
+                        "endOffsets": "122,200,275,335,401,465"
+                    }
+                }
+            ]
+        }
+    ]
+}

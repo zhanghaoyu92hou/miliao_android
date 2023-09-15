@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+dimen common_text_size_normal
+drawable common_background
+drawable common_ic_closeto_silent
+drawable common_ic_detection_silent
+drawable common_ic_faraway_silent
+drawable common_ic_notice_silent
+id background
+id camera_preview
+id img_notice
+id linkface_txt_back
+id linkface_txt_note
+id pb_loading
+layout common_activity_liveness_silent
+string common_detecting
+string common_face_too_close
+string common_face_too_far
+string common_tracking_covered
+string common_tracking_covered_brow
+string common_tracking_covered_eye
+string common_tracking_covered_mouth
+string common_tracking_covered_nose
+string common_tracking_missed
+string common_tracking_out_of_bound
+string common_txt_back

@@ -1,0 +1,24 @@
+com/sensetime/liveness/silent/ui/camera/SenseCameraPreview.java
+ com.sensetime.liveness.silent.ui.camera.SenseCameraPreview
+ com.sensetime.liveness.silent.ui.camera.SenseCameraPreview$1
+ com.sensetime.liveness.silent.ui.camera.SenseCameraPreview$StartListener
+ com.sensetime.liveness.silent.ui.camera.SenseCameraPreview$SurfaceCallback
+com/sensetime/liveness/silent/SilentLivenessImageHolder.java
+ com.sensetime.liveness.silent.SilentLivenessImageHolder
+com/sensetime/liveness/silent/ui/camera/SenseCamera.java
+ com.sensetime.liveness.silent.ui.camera.SenseCamera
+ com.sensetime.liveness.silent.ui.camera.SenseCamera$1
+ com.sensetime.liveness.silent.ui.camera.SenseCamera$Builder
+ com.sensetime.liveness.silent.ui.camera.SenseCamera$SizePair
+com/sensetime/liveness/silent/AbstractSilentLivenessActivity.java
+ com.sensetime.liveness.silent.AbstractSilentLivenessActivity
+ com.sensetime.liveness.silent.AbstractSilentLivenessActivity$1
+com/sensetime/liveness/silent/ActivityUtils.java
+ com.sensetime.liveness.silent.ActivityUtils
+ com.sensetime.liveness.silent.ActivityUtils$1
+com/sensetime/liveness/silent/SilentLivenessActivity.java
+ com.sensetime.liveness.silent.SilentLivenessActivity
+ com.sensetime.liveness.silent.SilentLivenessActivity$1
+ com.sensetime.liveness.silent.SilentLivenessActivity$2
+com/sensetime/sample/common/BuildConfig.java
+ com.sensetime.sample.common.BuildConfig

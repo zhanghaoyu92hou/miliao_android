@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :liveness-silent-offline-cn-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ec258bddebacc6a886040beff7e6aa1a/liveness-silent-offline-cn-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ec258bddebacc6a886040beff7e6aa1a/liveness-silent-offline-cn-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

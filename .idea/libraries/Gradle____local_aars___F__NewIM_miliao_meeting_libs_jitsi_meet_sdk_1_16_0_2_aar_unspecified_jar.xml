@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:F.\NewIM\miliao\meeting\libs\jitsi-meet-sdk-1.16.0-2.aar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/436c09e1adfcf233c1cc4ed0ce310206/jitsi-meet-sdk-1.16.0-2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/436c09e1adfcf233c1cc4ed0ce310206/jitsi-meet-sdk-1.16.0-2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fanjun:keeplive:1.1.10@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53cff8c8d195326c1030b537a158e512/keeplive-1.1.10/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/53cff8c8d195326c1030b537a158e512/keeplive-1.1.10/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fanjun/keeplive/1.1.10/97ffbb6763313d17983b99f498dd7c4ee81c523e/keeplive-1.1.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fanjun/keeplive/1.1.10/63b903d9489c208d9875ed8264506feecf2a528c/keeplive-1.1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

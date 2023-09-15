@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_seek_thumb.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_btn_colored_text_material.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_spinner.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_switch_track.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_edittext.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_btn_checkable.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_default.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_hint_foreground_material_light.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    }
+]

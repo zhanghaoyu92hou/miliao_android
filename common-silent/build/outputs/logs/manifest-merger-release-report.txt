@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\NewIM\miliao\common-silent\src\main\AndroidManifest.xml:1:1-51
+INJECTED from F:\NewIM\miliao\common-silent\src\main\AndroidManifest.xml:1:1-51
+INJECTED from F:\NewIM\miliao\common-silent\src\main\AndroidManifest.xml:1:1-51
+	package
+		ADDED from F:\NewIM\miliao\common-silent\src\main\AndroidManifest.xml:1:11-48
+		INJECTED from F:\NewIM\miliao\common-silent\src\main\AndroidManifest.xml
+		INJECTED from F:\NewIM\miliao\common-silent\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\NewIM\miliao\common-silent\src\main\AndroidManifest.xml:1:1-51
+uses-sdk
+INJECTED from F:\NewIM\miliao\common-silent\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\NewIM\miliao\common-silent\src\main\AndroidManifest.xml
+INJECTED from F:\NewIM\miliao\common-silent\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\NewIM\miliao\common-silent\src\main\AndroidManifest.xml
+		ADDED from F:\NewIM\miliao\common-silent\src\main\AndroidManifest.xml
+		INJECTED from F:\NewIM\miliao\common-silent\src\main\AndroidManifest.xml

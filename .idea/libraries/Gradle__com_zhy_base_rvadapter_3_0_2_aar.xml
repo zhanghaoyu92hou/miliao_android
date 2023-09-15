@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zhy:base-rvadapter:3.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f85ceb27beb5e6f8826b42f4f301c8ff/base-rvadapter-3.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f85ceb27beb5e6f8826b42f4f301c8ff/base-rvadapter-3.0.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/base-rvadapter/3.0.2/e7ebd44e6b2a0b0b7ee85527efaebface05bd714/base-rvadapter-3.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/base-rvadapter/3.0.2/266831e039c78ba94b1ae2d3e13d875603460493/base-rvadapter-3.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

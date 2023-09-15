@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="948aa128-8c54-48bc-a1ae-3305f005eb82" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/OpenGLlibrary/build/" />
+    <ignored path="$PROJECT_DIR$/meeting/build/" />
+    <ignored path="$PROJECT_DIR$/YZxing-lib/build/" />
+    <ignored path="$PROJECT_DIR$/WebViewLib/build/" />
+    <ignored path="$PROJECT_DIR$/common-silent/build/" />
+    <ignored path="$PROJECT_DIR$/liveLibrary/build/" />
+    <ignored path="$PROJECT_DIR$/jcvideoplayer-lib/build/" />
+    <ignored path="$PROJECT_DIR$/app/build/" />
+    <ignored path="$PROJECT_DIR$/pullToRefershLibraryMy/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="XKKBB19220202981" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/view/ChatToolsView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="105" selection-start-line="105" selection-end-line="105" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/view/ChatBottomView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="947" column="20" selection-start-line="947" selection-start-column="20" selection-end-line="947" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/message/ChatActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="1712" selection-start-line="1712" selection-end-line="1712" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/view/mucChatHolder/AChatHolderInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4921">
+              <caret line="287" column="46" selection-start-line="287" selection-start-column="46" selection-end-line="287" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/message/MucChatActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="2251" column="24" selection-start-line="2251" selection-start-column="24" selection-end-line="2251" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="313" column="22" selection-start-line="313" selection-start-column="22" selection-end-line="313" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values-zh-rTW/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="1426" column="31" selection-start-line="1426" selection-start-column="29" selection-end-line="1426" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="126" column="46" selection-start-line="126" selection-start-column="46" selection-end-line="126" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>五七</find>
+      <find>我的战友</find>
+      <find>my_colleague</find>
+      <find>life_circle2</find>
+      <find>五七圈</find>
+      <find>launch_flash</find>
+      <find>语音通话</find>
+      <find>踢</find>
+      <find>JXLiveVC_KickSuccess</find>
+      <find>被踢</find>
+      <find>xuan_video</find>
+      <find>我的同事</find>
+      <find>qingtana</find>
+      <find>清谈</find>
+      <find>相册</find>
+      <find>chat_poto</find>
+      <find>REQUEST_CODE_PICK_PHOTO</find>
+      <find>maxdp</find>
+      <find>基于宽度进行缩放</find>
+      <find>启航</find>
+      <find>转发</find>
+      <find>qihang</find>
+      <find>forward</find>
+      <find>撤回</find>
+      <find>zhengtu</find>
+      <find>miliao</find>
+      <find>通话</find>
+      <find>chat_call</find>
+      <find>chat_audio</find>
+      <find>征途</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>五七圈</replace>
+      <replace />
+      <replace>生活圈</replace>
+      <replace>启航</replace>
+      <replace>征途</replace>
+      <replace>密聊</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\NewIM\android\app\src\main\res\values-w820dp</dir>
+    </dirStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="F:\NewIM\miliao\miliao.jks" />
+    <option name="KEY_ALIAS" value="miliao" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/meeting/build.gradle" />
+        <option value="$PROJECT_DIR$/local.properties" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iimm/wuqiquan/ui/circle/BusinessCircleSearchActivity.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/AcctivityBusinessCircleSearchBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/AcctivitySelectFriendBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityAcceptBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityAccountBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityBillBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityEndingBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityMain2BindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityOpenWalletBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityRechargeBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityRedPacketBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityRedPacketDetailsBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityRedPacketListBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityRedPacketsBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityStartBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityTransactionDetailBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityTransfer2BindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityWithdrawBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/BusinessCircleHeadBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ItemTransactionRlBindingImpl.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iimm/wuqiquana/ui/circle/BusinessCircleSearchActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-en/strings.xml" />
+        <option value="$PROJECT_DIR$/signing.properties" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-zh-rTW/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-zh-rHK/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_address_book_head.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iimm/qihang/xmpp/util/ImHelper.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iimm/qihang/view/mucChatHolder/ImageViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iimm/zhengtu/view/mucChatHolder/GifViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iimm/zhengtu/view/ChatToolsView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iimm/zhengtu/ui/message/ChatActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iimm/zhengtu/ui/message/MucChatActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/message/MucChatActivity.java" />
+        <option value="$PROJECT_DIR$/app/proguard-rules.pro" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="1" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="20ijI32OlvlP6oHfCiaMyGhJt3L" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="miliao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miliao" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="miliao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miliao" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="miliao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miliao" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miliao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miliao" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miliao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miliao" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miliao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miliao" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miliao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miliao" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="iimm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miliao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miliao" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_30" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2022-05-21T07:42:14.890Z" />
+    <property name="ExportApk.ApkPath" value="F:\NewIM\miliao" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-viewD:/lingma/changliao/android/app/src/main/java/com/iimm/chat/view/ChatToolsView.java_SELECTED" value="ChatToolsView" />
+    <property name="android-custom-viewD:/lingma/longhu/android/OpenGLlibrary/src/main/java/com/joe/camera2recorddemo/View/CameraRecordView.java_SELECTED" value="CameraRecordView" />
+    <property name="android-custom-viewD:/lingma/longhu/android/app/src/main/java/com/iimm/chat/ui/xrce/Xrecprogressbar.java_SELECTED" value="Xrecprogressbar" />
+    <property name="android-custom-viewD:/lingma/longhu/android/app/src/main/java/com/iimm/chat/view/ChatBottomView.java_SELECTED" value="ChatBottomView" />
+    <property name="android-custom-viewD:/lingma/longhu/android/app/src/main/java/com/iimm/chat/view/ChatToolsView.java_SELECTED" value="ChatToolsView" />
+    <property name="android-custom-viewD:/lingma/longhu/android/pullToRefershLibraryMy/src/main/java/com/handmark/pulltorefresh/library/extras/PullToRefreshWebView2.java_SELECTED" value="PullToRefreshWebView2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.iimm.chat" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\NewIM\miliao\app\src\main\res\drawable-xxhdpi" />
+      <recent name="F:\NewIM\miliao\app\src\main\res\mipmap-xxxhdpi" />
+      <recent name="F:\NewIM\miliao\app\src\main\res\mipmap-xxhdpi" />
+      <recent name="F:\NewIM\miliao\app\src\main\res\mipmap-xhdpi" />
+      <recent name="F:\NewIM\miliao\app\src\main\res\mipmap-mdpi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\clm\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="948aa128-8c54-48bc-a1ae-3305f005eb82" name="Default Changelist" comment="" />
+      <created>1636534218678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636534218678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="1" width="1934" height="1047" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.2614728" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.32932165" />
+      <window_info anchor="bottom" id="Android Profiler" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.32056892" />
+      <window_info anchor="bottom" id="Logcat" order="6" weight="0.32932165" />
+      <window_info anchor="bottom" id="Debug" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32932165" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" weight="0.21931697" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Flutter Inspector" order="4" />
+      <window_info anchor="right" id="Flutter Outline" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Flutter Performance" order="7" />
+      <window_info anchor="right" id="Preview" order="8" weight="0.32977587" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="637" y="102" key="#app" timestamp="1652343143022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="102" key="#app/0.0.1920.1040@0.0.1920.1040" timestamp="1652343143022" />
+    <state x="627" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1652352389304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1652352389304" />
+    <state x="634" y="239" key="FileChooserDialogImpl" timestamp="1652351976347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="239" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1652351976347" />
+    <state width="1852" height="410" key="GridCell.Tab.0.bottom" timestamp="1652351484935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="410" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1652351484935" />
+    <state width="1852" height="410" key="GridCell.Tab.0.center" timestamp="1652351484935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="410" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1652351484935" />
+    <state width="1852" height="410" key="GridCell.Tab.0.left" timestamp="1652351484934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="410" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1652351484934" />
+    <state width="1852" height="410" key="GridCell.Tab.0.right" timestamp="1652351484935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1852" height="410" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1652351484935" />
+    <state x="345" y="82" key="SettingsEditor" timestamp="1652343170604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="345" y="82" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1652343170604" />
+    <state x="577" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1652350958321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="577" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1652350958321" />
+    <state x="574" y="193" width="933" height="654" key="find.popup" timestamp="1652352271979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="574" y="193" width="933" height="654" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1652352271979" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1652346001095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1652346001095" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/groupchat/SelectContactsActivity.java</url>
+          <line>340</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/groupchat/SelectContactsActivity.java</url>
+          <line>343</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/groupchat/SelectContactsActivity.java</url>
+          <line>367</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/groupchat/SelectContactsActivity.java</url>
+          <line>319</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityTransactionDetailBindingImpl.java" />
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityTransfer2BindingImpl.java" />
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityWithdrawBindingImpl.java" />
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/BusinessCircleHeadBindingImpl.java" />
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityAcceptBindingImpl.java" />
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/AcctivitySelectFriendBindingImpl.java" />
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ItemTransactionRlBindingImpl.java" />
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/ActivityBillBindingImpl.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/circle/BusinessCircleSearchActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/circle/SelectFriendActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/library/3.5.3/7111974cdda449cc7870f7bb81d28d1d37274b6c/library-3.5.3-sources.jar!/android/databinding/DataBindingUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/kapt/release/com/iimm/chat1/databinding/AcctivityBusinessCircleSearchBindingImpl.java" />
+    <entry file="file://$PROJECT_DIR$/build/intermediates/lint-cache/api-versions-15-31.0.3.bin" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/acctivity_select_friend.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signing.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/launch_flash.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merger.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_address_book_head.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2793">
+          <caret line="147" column="37" selection-start-line="147" selection-start-column="37" selection-end-line="147" selection-end-column="37" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-en/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_square.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/live/LivePlayingActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="1208" column="94" selection-start-line="1208" selection-start-column="74" selection-end-line="1208" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/live/AnchorChatFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="1028" column="74" selection-start-line="1028" selection-start-column="74" selection-end-line="1028" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/xmpp/util/ImHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="1460" column="17" selection-start-line="1460" selection-start-column="17" selection-end-line="1460" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_jcv_trill.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xuan/xuanhttplibrary/okhttp/callback/JsonCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/UserCheckedActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/trill/JcvTrillVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3952">
+          <caret line="260" column="36" selection-start-line="260" selection-start-column="36" selection-end-line="260" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/trill/TrillCommDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="171" column="58" selection-start-line="171" selection-start-column="58" selection-end-line="171" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_trill_comm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/bean/circle/PublicMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xuan/xuanhttplibrary/okhttp/callback/BaseCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="109" column="31" selection-start-line="109" selection-start-column="31" selection-end-line="109" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/bean/message/ChatMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4047">
+          <caret line="288" column="22" selection-start-line="288" selection-start-column="22" selection-end-line="288" selection-end-column="22" />
+          <folding>
+            <element signature="e#7553#7554#0" expanded="true" />
+            <element signature="e#7597#7598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/view/mucChatHolder/ImageViewHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3363">
+          <caret line="205" column="27" selection-start-line="205" selection-start-column="19" selection-end-line="205" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/view/mucChatHolder/GifViewHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/forward_dialog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-zh-rHK/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27113">
+          <caret line="1427" column="27" selection-start-line="1427" selection-start-column="18" selection-end-line="1427" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/im_tool_video_button_bg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/im_video_button_pres.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://E:/sdk/android-sdk-windows/sources/android-28/java/lang/Float.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7980">
+          <caret line="449" column="24" selection-start-line="449" selection-start-column="24" selection-end-line="449" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/view/mucChatHolder/AChatHolderInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4921">
+          <caret line="287" column="46" selection-start-line="287" selection-start-column="46" selection-end-line="287" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="313" column="22" selection-start-line="313" selection-start-column="22" selection-end-line="313" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-zh-rTW/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="1426" column="31" selection-start-line="1426" selection-start-column="29" selection-end-line="1426" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="126" column="46" selection-start-line="126" selection-start-column="46" selection-end-line="126" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/message/MucChatActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="2251" column="24" selection-start-line="2251" selection-start-column="24" selection-end-line="2251" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/ui/message/ChatActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="1712" selection-start-line="1712" selection-end-line="1712" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/view/ChatBottomView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="947" column="20" selection-start-line="947" selection-start-column="20" selection-end-line="947" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/iimm/miliao/view/ChatToolsView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

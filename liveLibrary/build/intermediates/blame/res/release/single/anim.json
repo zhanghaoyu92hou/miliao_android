@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_exit.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_tooltip_enter.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\3cca23931be5c29c6e81833889c19cda\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

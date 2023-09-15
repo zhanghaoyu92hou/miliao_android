@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\latte.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\latte.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\cool.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\cool.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\kevin_new.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\kevin_new.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\sweets.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\sweets.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\healthy.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\healthy.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\emerald.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\emerald.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\sketch.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\sketch.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\brightness.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\brightness.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\n1977.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\n1977.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\constrast.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\constrast.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\calm.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\calm.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\amaro.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\amaro.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\xproii_filter_shader.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\xproii_filter_shader.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\lookup.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\lookup.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\nostalgia.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\nostalgia.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\beauty.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\beauty.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\romance.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\romance.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\lomo.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\lomo.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\hudson.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\hudson.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\blackcat.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\blackcat.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\exposure.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\exposure.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\tender.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\tender.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\walden.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\walden.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\brooklyn.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\brooklyn.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\skinwhiten.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\skinwhiten.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\sutro.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\sutro.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\inkwell.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\inkwell.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\warm.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\warm.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\sierra.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\sierra.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\nashville.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\nashville.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\sunrise.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\sunrise.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\sharpen.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\sharpen.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\pixar.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\pixar.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\valencia.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\valencia.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\hue.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\hue.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\vertex.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\vertex.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\toaster2_filter_shader.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\toaster2_filter_shader.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\antique.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\antique.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\hefe.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\hefe.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\sunset.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\sunset.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\saturation.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\saturation.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\fragment.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\fragment.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\freud.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\freud.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\earlybird.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\earlybird.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\brannan.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\brannan.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\crayon.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\crayon.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\rise.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\rise.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\whitecat.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\whitecat.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\evergreen.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\evergreen.glsl"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\raw\\vertex_sharpen.glsl",
+        "source": "D:\\myproject2\\changliao\\android\\liveLibrary\\src\\main\\res\\raw\\vertex_sharpen.glsl"
+    }
+]

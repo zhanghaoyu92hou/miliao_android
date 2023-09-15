@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\common-silent\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_ic_notice_silent.png",
+        "source": "D:\\myproject2\\changliao\\android\\common-silent\\src\\main\\res\\drawable-xhdpi\\common_ic_notice_silent.png"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\common-silent\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_ic_detection_silent.png",
+        "source": "D:\\myproject2\\changliao\\android\\common-silent\\src\\main\\res\\drawable-xhdpi\\common_ic_detection_silent.png"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\common-silent\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_background.png",
+        "source": "D:\\myproject2\\changliao\\android\\common-silent\\src\\main\\res\\drawable-xhdpi\\common_background.png"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\common-silent\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_ic_closeto_silent.png",
+        "source": "D:\\myproject2\\changliao\\android\\common-silent\\src\\main\\res\\drawable-xhdpi\\common_ic_closeto_silent.png"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\common-silent\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_ic_faraway_silent.png",
+        "source": "D:\\myproject2\\changliao\\android\\common-silent\\src\\main\\res\\drawable-xhdpi\\common_ic_faraway_silent.png"
+    }
+]

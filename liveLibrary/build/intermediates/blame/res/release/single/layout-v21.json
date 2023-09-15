@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\55979a5c04a1ca9eed5380346513c54a\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\55979a5c04a1ca9eed5380346513c54a\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\55979a5c04a1ca9eed5380346513c54a\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\myproject2\\changliao\\android\\liveLibrary\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\AGradle\\caches\\transforms-2\\files-2.1\\55979a5c04a1ca9eed5380346513c54a\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

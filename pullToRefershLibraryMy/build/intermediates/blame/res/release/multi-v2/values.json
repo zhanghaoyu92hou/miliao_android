@@ -1,0 +1,174 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "40",
+                        "endOffsets": "91"
+                    }
+                },
+                {
+                    "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "3,5,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "56,133,95",
+                        "endColumns": "38,40,37",
+                        "endOffsets": "90,169,128"
+                    },
+                    "to": {
+                        "startLines": "8,9,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "391,429,469",
+                        "endColumns": "37,39,36",
+                        "endOffsets": "424,464,501"
+                    }
+                },
+                {
+                    "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "6,7,4,5,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "223,287,111,166,56",
+                        "endColumns": "63,63,54,56,54",
+                        "endOffsets": "282,346,161,218,106"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "96,160,224,279,336",
+                        "endColumns": "63,63,54,56,54",
+                        "endOffsets": "155,219,274,331,386"
+                    }
+                },
+                {
+                    "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\values\\attrs.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "77",
+                        "endColumns": "24",
+                        "endOffsets": "3595"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "921",
+                        "endLines": "91",
+                        "endColumns": "24",
+                        "endOffsets": "4434"
+                    }
+                },
+                {
+                    "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "from": {
+                        "startLines": "8,10,9,3,5,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "360,507,432,56,180,116",
+                        "endColumns": "71,77,74,59,65,63",
+                        "endOffsets": "427,580,502,111,241,175"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "506,578,656,731,791,857",
+                        "endColumns": "71,77,74,59,65,63",
+                        "endOffsets": "573,651,726,786,852,916"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "40",
+                        "endOffsets": "91"
+                    }
+                },
+                {
+                    "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "3,5,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "56,133,95",
+                        "endColumns": "38,40,37",
+                        "endOffsets": "90,169,128"
+                    },
+                    "to": {
+                        "startLines": "8,9,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "391,429,469",
+                        "endColumns": "37,39,36",
+                        "endOffsets": "424,464,501"
+                    }
+                },
+                {
+                    "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "6,7,4,5,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "223,287,111,166,56",
+                        "endColumns": "63,63,54,56,54",
+                        "endOffsets": "282,346,161,218,106"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "96,160,224,279,336",
+                        "endColumns": "63,63,54,56,54",
+                        "endOffsets": "155,219,274,331,386"
+                    }
+                },
+                {
+                    "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\values\\attrs.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endLines": "77",
+                        "endColumns": "24",
+                        "endOffsets": "3595"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "921",
+                        "endLines": "91",
+                        "endColumns": "24",
+                        "endOffsets": "4434"
+                    }
+                },
+                {
+                    "source": "D:\\myproject2\\changliao\\android\\pullToRefershLibraryMy\\src\\main\\res\\values\\pull_refresh_strings.xml",
+                    "from": {
+                        "startLines": "8,10,9,3,5,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "360,507,432,56,180,116",
+                        "endColumns": "71,77,74,59,65,63",
+                        "endOffsets": "427,580,502,111,241,175"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "506,578,656,731,791,857",
+                        "endColumns": "71,77,74,59,65,63",
+                        "endOffsets": "573,651,726,786,852,916"
+                    }
+                }
+            ]
+        }
+    ]
+}
